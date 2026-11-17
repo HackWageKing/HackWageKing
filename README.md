@@ -1,9 +1,9 @@
-<div align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/><a href="https://github.com/H4ckWageKing">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=60&duration=3500&pause=1500&color=FF1744&center=true&vCenter=true&width=900&height=90&lines=H4ckWageKing;SOFTWARE+DEVELOPER;BUILDING+THE+FUTURE" />
-</a><br/><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3500&pause=1200&color=00D9FF&center=true&vCenter=true&width=900&height=40&lines=WEB+DEVELOPER+%7C+SOFTWARE+DEVELOPER;FULL+STACK+DEVELOPMENT+JOURNEY;LEARN+%E2%80%A2+BUILD+%E2%80%A2+INNOVATE;TURNING+IDEAS+INTO+REALITY" /><br/><br/>
+<div align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/><a href="https://github.com/HackWageKing">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=58&duration=3500&pause=1500&color=FF1744&center=true&vCenter=true&width=900&height=90&lines=HACKWAGEKING;SOFTWARE+DEVELOPER;BUILDING+THE+FUTURE" alt="HACKWAGEKING"/>
+</a><br/><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1200&color=00D9FF&center=true&vCenter=true&width=900&height=40&lines=WEB+DEVELOPER+%7C+SOFTWARE+DEVELOPER;FULL+STACK+DEVELOPMENT+JOURNEY;LEARN+%E2%80%A2+BUILD+%E2%80%A2+INNOVATE;CREATING+THE+NEXT+GENERATION+OF+SOFTWARE" alt="Developer subtitle"/><br/><br/>
 
-<a href="https://github.com/H4ckWageKing">
-<img src="https://img.shields.io/badge/GITHUB-H4ckWageKing-05070D?style=for-the-badge&logo=github&logoColor=FF1744"/>
+<a href="https://github.com/HackWageKing">
+<img src="https://img.shields.io/badge/GITHUB-HACKWAGEKING-05070D?style=for-the-badge&logo=github&logoColor=FF1744"/>
 </a>
 <a href="https://youtube.com/@h4ck_wage_king">
 <img src="https://img.shields.io/badge/YOUTUBE-H4CK_WAGE_KING-05070D?style=for-the-badge&logo=youtube&logoColor=FF0000"/>
@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/TIKTOK-HACK_WAGE_KING-05070D?style=for-the-badge&logo=tiktok&logoColor=00D9FF"/>
 </a><br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=H4ckWageKing&label=PROFILE+VISITORS&color=FF1744&style=for-the-badge"/><br/><br/>
+<img src="https://komarev.com/ghpvc/?username=HackWageKing&label=PROFILE+VIEWS&color=FF1744&style=for-the-badge" alt="Profile views"/><br/><br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/></div>👨‍💻 EXECUTIVE DEVELOPER PROFILE
 
@@ -20,85 +20,70 @@
 
 Engineering Ideas Into Digital Experiences.
 
-</div>I am H4ckWageKing, a developer from Sri Lanka 🇱🇰, passionate about Web Development, Software Engineering, Programming, and Technology.
+</div>I am HackWageKing, a developer from Sri Lanka 🇱🇰, passionate about programming, software development, modern technologies, and creating digital experiences.
 
-My journey is focused on mastering modern programming languages, developing professional applications, and building powerful digital experiences.
+My journey is focused on learning programming languages, exploring modern frameworks, developing useful applications, and improving my engineering skills.
 
-I am continuously learning and improving my skills with the long-term goal of becoming a Professional Full Stack Developer.
+My long-term ambition is to become a professional Full Stack Web Developer and build software that combines performance, functionality, and modern design.
 
-DEVELOPER:
-  Name: H4ckWageKing
-  Country: Sri Lanka
-  Role: Web Developer | Software Developer
-  Experience_Level: Beginner
-  Main_Goal: Full Stack Developer
+developer:
+  name: HackWageKing
+  location: Sri Lanka
+  roles:
+    - Web Developer
+    - Software Developer
+  current_level: Beginner
+  main_goal: Full Stack Developer
 
-INTERESTS:
+interests:
   - Web Development
   - Software Engineering
   - Frontend Development
   - Backend Development
   - Android Development
-  - Database Systems
+  - Database Development
   - UI/UX Design
   - Application Development
 
-MINDSET:
-  - Continuous Learning
-  - Creative Thinking
-  - Problem Solving
-  - Practical Development
-  - Innovation
+philosophy:
+  - Learn Continuously
+  - Build Real Projects
+  - Improve Every Day
+  - Think Creatively
 
 ---
 
-🚀 DEVELOPMENT FOOTPRINT
+⚡ DEVELOPMENT ECOSYSTEM
 
-<table width="100%">
-<tr>
-<td width="50%" align="center">🌐 WEB DEVELOPMENT
+<div align="center">DEVELOPMENT FIELD| MY FOCUS
+🌐 Web Development| Modern & Responsive Websites
+🎨 Frontend Development| Interactive User Interfaces
+⚙️ Backend Development| Server-Side Programming
+📱 Mobile Development| Android Applications
+💻 Software Development| Programming & Applications
+🗄️ Database Development| SQL & Data Management
+🚀 Technical Research| Learning & Experimentation
 
-Modern websites, responsive interfaces, frontend technologies and backend fundamentals.
-
-</td>
-<td width="50%" align="center">💻 SOFTWARE DEVELOPMENT
-
-Programming fundamentals, application development, system concepts and software architecture.
-
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">📱 MOBILE DEVELOPMENT
-
-Android development, mobile application concepts and responsive experiences.
-
-</td>
-<td width="50%" align="center">⚙️ TECHNICAL DEVELOPMENT
-
-Developer tools, automation, optimization concepts and practical experimentation.
-
-</td>
-</tr>
-</table>---
+</div>---
 
 🧬 TECHNOLOGY ECOSYSTEM
 
-Programming Languages
+01. Programming Languages
 
-<div align="center"><img src="https://skillicons.dev/icons?i=html,css,js,ts,py,java,cs,cpp,c,go,php,sql&theme=dark&perline=6"/><br/><br/>
+<div align="center"><img src="https://skillicons.dev/icons?i=cs,cpp,c,python,java,js,ts,go,html,css,sql&theme=dark&perline=6" alt="Programming languages"/><br/><br/>
 
-<img src="https://img.shields.io/badge/HTML5-STRUCTURE-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-STYLING-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JAVASCRIPT-LOGIC-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/PYTHON-PROGRAMMING-3776AB?style=for-the-badge&logo=python&logoColor=white"/></div>Frameworks & Libraries
+<img src="https://img.shields.io/badge/C%23-LEARNING-68217A?style=for-the-badge&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%2B%2B-LEARNING-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/PYTHON-LEARNING-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JAVASCRIPT-LEARNING-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></div>02. Frameworks & Libraries
 
-<div align="center"><img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,bootstrap,dotnet&theme=dark&perline=6"/></div>Databases & Infrastructure
+<div align="center"><img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,bootstrap,dotnet&theme=dark&perline=6" alt="Frameworks"/></div>03. Database Technologies
 
-<div align="center"><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,cloudflare,vercel&theme=dark&perline=6"/></div>Development Tools
+<div align="center"><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite&theme=dark&perline=4" alt="Databases"/></div>04. Tools & Infrastructure
 
-<div align="center"><img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma,postman&theme=dark&perline=6"/></div>---
+<div align="center"><img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma,postman,vercel,cloudflare&theme=dark&perline=4" alt="Development tools"/></div>---
 
-⚡ CORE ENGINEERING DOMAINS
+💻 CORE ENGINEERING DOMAINS
 
 <table width="100%">
 <tr>
@@ -120,24 +105,23 @@ Programming Languages
 
 - Node.js
 - PHP
-- Next.js Backend
+- Next.js
 - REST API Concepts
-- Authentication
 - Server-Side Programming
+- Authentication Concepts
 - Application Logic
-- Database Integration
+- Backend Architecture
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">📱 Mobile & Application Development
+<td width="50%" valign="top">📱 Mobile Development
 
 - Android Development
 - Java
-- C#
-- Mobile UI
+- Mobile UI Design
 - Application Architecture
-- Software Development
+- Mobile Optimization Concepts
 - Device Compatibility
 
 </td>
@@ -149,118 +133,163 @@ Programming Languages
 - MongoDB
 - Database Design
 - Data Management
+- Git & GitHub
 - Linux Fundamentals
-- Git & Version Control
 
 </td>
 </tr>
 </table>---
 
-🎯 FULL STACK DEVELOPER ROADMAP
+🎯 FULL STACK DEVELOPMENT ROADMAP
 
 <div align="center">PHASE| TECHNOLOGY| LEARNING OBJECTIVE
-01| HTML| Web Structure
-02| CSS| Styling & Layout
+01| HTML5| Web Structure
+02| CSS3| Styling & Layout
 03| JavaScript| Programming Logic
 04| React| Frontend Development
 05| TypeScript| Type Safety
-06| Tailwind CSS| Modern UI
+06| Tailwind CSS| Modern UI Development
 07| Node.js| Backend Development
 08| Next.js| Full Stack Development
 09| SQL| Database Management
 10| Git & GitHub| Version Control
-11| APIs| Backend Communication
+11| REST APIs| Application Communication
 12| Deployment| Production Fundamentals
 
 </div>---
 
-🛠️ DEVELOPMENT PROJECTS
+🛠️ PROJECT SHOWCASE
 
-<div align="center"><a href="https://github.com/H4ckWageKing?tab=repositories">
+<div align="center"><a href="https://github.com/HackWageKing?tab=repositories">
 <img src="https://img.shields.io/badge/EXPLORE%20ALL%20PROJECTS-FF1744?style=for-the-badge&logo=github&logoColor=white"/>
-</a></div>Project Categories
+</a></div>Development Categories
 
-- 🌐 Website Development
-- 💻 Desktop Software
-- 📱 Android Applications
-- 🎨 Modern Dashboard Interfaces
-- ⚡ Performance Optimization Tools
-- 🔧 Developer Utilities
-- 🗄️ Database Applications
-- 🚀 Experimental Projects
+<table width="100%">
+<tr>
+<td width="50%" valign="top">🌐 Web Development
 
-All projects and development experiments will be showcased through my GitHub repositories.
+Modern websites, responsive interfaces, dashboards and web platforms.
+
+💻 Software Development
+
+Programming experiments, desktop applications and developer utilities.
+
+📱 Mobile Development
+
+Android applications and mobile development experiments.
+
+</td>
+<td width="50%" valign="top">🎨 UI/UX Development
+
+Modern layouts, dashboard interfaces and user experiences.
+
+⚡ Optimization Projects
+
+Performance research and software improvement tools.
+
+🔧 Developer Utilities
+
+Useful tools, automation and development experiments.
+
+</td>
+</tr>
+</table>All public projects and development experiments can be explored through my repositories.
 
 ---
 
 📊 GITHUB ANALYTICS
 
-<div align="center"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=H4ckWageKing&show_icons=true&hide_border=true&bg_color=05070D&title_color=FF1744&icon_color=00D9FF&text_color=FFFFFF&include_all_commits=true"/><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=H4ckWageKing&layout=compact&hide_border=true&bg_color=05070D&title_color=FF1744&text_color=FFFFFF"/><br/><br/>
+<div align="center">GitHub Performance Overview
 
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com?user=H4ckWageKing&theme=dark&background=05070D&ring=FF1744&fire=00D9FF&currStreakLabel=FF1744&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=00D9FF&dates=888888&hide_border=true"/></div>---
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=HackWageKing&show_icons=true&include_all_commits=true&hide_border=true&bg_color=05070D&title_color=FF1744&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub statistics"/><br/><br/>
+
+Most Used Languages
+
+<img width="85%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HackWageKing&layout=compact&langs_count=12&hide_border=true&bg_color=05070D&title_color=FF1744&text_color=FFFFFF" alt="Top languages"/><br/><br/>
+
+Contribution Streak
+
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=HackWageKing&theme=dark&background=05070D&ring=FF1744&fire=00D9FF&currStreakLabel=FF1744&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=00D9FF&dates=999999&hide_border=true" alt="GitHub streak"/></div>---
 
 🏆 GITHUB TROPHIES
 
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=H4ckWageKing&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=4"/></div>---
+<div align="center"><img width="100%" src="https://github-profile-trophy.vercel.app/?username=HackWageKing&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=4" alt="GitHub trophies"/></div>---
 
-📈 CONTRIBUTION GRAPH
+📈 CONTRIBUTION ACTIVITY
 
-<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=H4ckWageKing&bg_color=05070D&color=00D9FF&line=FF1744&point=FFFFFF&area=true&hide_border=true&custom_title=H4ckWageKing%20Contribution%20Activity" width="100%"/></div>---
+<div align="center"><img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=HackWageKing&bg_color=05070D&color=00D9FF&line=FF1744&point=FFFFFF&area=true&hide_border=true&custom_title=HACKWAGEKING%20CONTRIBUTION%20GRAPH" alt="Contribution graph"/></div>---
+
+📡 GITHUB PROFILE INFORMATION
+
+<div align="center"><a href="https://github.com/HackWageKing?tab=repositories">
+<img src="https://img.shields.io/badge/REPOSITORIES-VIEW%20ALL-111111?style=for-the-badge&logo=github&logoColor=FF1744"/>
+</a><a href="https://github.com/HackWageKing?tab=followers">
+<img src="https://img.shields.io/github/followers/HackWageKing?label=FOLLOWERS&style=for-the-badge&logo=github&logoColor=00D9FF&color=111111"/>
+</a><a href="https://github.com/HackWageKing?tab=stars">
+<img src="https://img.shields.io/github/stars/HackWageKing?affiliations=OWNER&label=STARS&style=for-the-badge&logo=apachespark&logoColor=FF1744&color=111111"/>
+</a></div>---
 
 🌍 OFFICIAL SOCIAL CHANNELS
 
 <div align="center"><table width="100%">
 <tr>
 <td align="center" width="33%"><a href="https://youtube.com/@h4ck_wage_king">
-<img src="https://cdn.simpleicons.org/youtube/FF0000" width="50"/>
+<img src="https://cdn.simpleicons.org/youtube/FF0000" width="48" alt="YouTube"/>
 </a>YOUTUBE
 
 <a href="https://youtube.com/@h4ck_wage_king">
 <img src="https://img.shields.io/badge/SUBSCRIBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a></td>
 <td align="center" width="33%"><a href="https://www.tiktok.com/@hack_wage_king">
-<img src="https://cdn.simpleicons.org/tiktok/FFFFFF" width="50"/>
+<img src="https://cdn.simpleicons.org/tiktok/FFFFFF" width="48" alt="TikTok"/>
 </a>TIKTOK
 
 <a href="https://www.tiktok.com/@hack_wage_king">
-<img src="https://img.shields.io/badge/FOLLOW-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+<img src="https://img.shields.io/badge/FOLLOW-111111?style=for-the-badge&logo=tiktok&logoColor=white"/>
 </a></td>
-<td align="center" width="33%"><a href="https://github.com/H4ckWageKing">
-<img src="https://cdn.simpleicons.org/github/FFFFFF" width="50"/>
+<td align="center" width="33%"><a href="https://github.com/HackWageKing">
+<img src="https://cdn.simpleicons.org/github/FFFFFF" width="48" alt="GitHub"/>
 </a>GITHUB
 
-<a href="https://github.com/H4ckWageKing">
+<a href="https://github.com/HackWageKing">
 <img src="https://img.shields.io/badge/FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a></td>
 </tr>
-</table><a href="mailto:h4ckwageking@gmail.com">
+</table><br/><a href="mailto:h4ckwageking@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-H4CKWAGEKING%40GMAIL.COM-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a></div>---
+</a><br/><br/>
+
+LOCATION: SRI LANKA 🇱🇰
+
+</div>---
 
 🧠 DEVELOPER PHILOSOPHY
 
-<div align="center">THINK DIFFERENT. BUILD SMARTER. KEEP EVOLVING.
+<div align="center">THINK DIFFERENT. CODE SMARTER. BUILD BETTER.
 
 const developer = {
-    name: "H4ckWageKing",
+    name: "HackWageKing",
     country: "Sri Lanka",
     passion: "Software Development",
     goal: "Full Stack Developer",
 
-    mindset: [
+    principles: [
         "Never Stop Learning",
         "Build Real Projects",
         "Solve Problems",
+        "Think Creatively",
         "Improve Every Day"
     ],
 
-    future: "Under Construction..."
+    status: "Always Learning"
 };
 
 console.log("The Journey Continues.");
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=22&duration=3000&pause=1500&color=FF1744&center=true&vCenter=true&width=700&height=55&lines=CODE+YOUR+VISION;CREATE+YOUR+FUTURE;H4ckWageKing" /><br/>LEARN MORE. BUILD MORE. BECOME MORE.
+<br/><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=22&duration=3000&pause=1200&color=FF1744&center=true&vCenter=true&width=750&height=50&lines=LEARN+MORE;BUILD+MORE;CREATE+SOMETHING+GREAT;HACKWAGEKING" alt="Footer animation"/><br/><br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>© 2026 H4ckWageKing | SRI LANKA 🇱🇰
+LEARN. BUILD. IMPROVE. REPEAT.
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>© 2026 HACKWAGEKING | SRI LANKA 🇱🇰
 
 </div>
